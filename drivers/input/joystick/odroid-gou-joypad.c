@@ -40,7 +40,7 @@
 #include <dt-bindings/iio/adc/amlogic-saradc.h>
 
 /*----------------------------------------------------------------------------*/
-#define DRV_NAME "odroidgo_joypad"
+#define DRV_NAME "odroidgou_joypad"
 
 /*----------------------------------------------------------------------------*/
 #define	ADC_MAX_VOLTAGE		1800
